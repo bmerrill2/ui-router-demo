@@ -1,0 +1,23 @@
+{
+  "name": "ui-router-demo",
+  "version": "1.0.0",
+  "description": "a simple demo for assisting with integration of ui-router into DevMountain curriculum",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmerrill2/ui-router-demo.git"
+  },
+  "author": "Brad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmerrill2/ui-router-demo/issues"
+  },
+  "homepage": "https://github.com/bmerrill2/ui-router-demo#readme",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "jquery": "^2.1.4"
+  }
+}
